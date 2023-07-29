@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Jul 29 21:36:24 2023
+# Process ID: 8524
+# Current directory: C:/Users/hp/Documents/VIVADO/8_bit_booth_multiplier
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9620 C:\Users\hp\Documents\VIVADO\8_bit_booth_multiplier\8_bit_booth_multiplier.xpr
+# Log file: C:/Users/hp/Documents/VIVADO/8_bit_booth_multiplier/vivado.log
+# Journal file: C:/Users/hp/Documents/VIVADO/8_bit_booth_multiplier\vivado.jou
+#-----------------------------------------------------------
+ststart_guopopen_project C:/Users/hp/Documents/VIVADO/8_bit_booth_multiplier/8_bit_booth_multiplier.xpScanning sources...
+FiFinished scanning sourceININFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specifieININFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'open_project: Time (s): cpu = 00:00:15 ; elapsed = 00:00:17 . Memory (MB): peak = 793.762 ; gain = 116.727
+4

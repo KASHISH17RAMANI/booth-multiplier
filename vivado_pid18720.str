@@ -1,0 +1,97 @@
+/*
+
+Xilinx Vivado v2018.2 (64-bit) [Major: 2018, Minor: 2]
+SW Build: 2258646 on Thu Jun 14 20:03:12 MDT 2018
+IP Build: 2256618 on Thu Jun 14 22:10:49 MDT 2018
+
+Process ID: 18720
+License: Customer
+
+Current time: 	Sat Jul 29 21:36:57 IST 2023
+Time zone: 	India Standard Time (Asia/Calcutta)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 4
+
+Screen size: 1366x768
+Screen resolution (DPI): 96
+Available screens: 1
+Available disk space: 53 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	1.8.0_112 64-bit
+Java home: 	C:/Xilinx/Vivado/2018.2/tps/win64/jre
+Java executable location: 	C:/Xilinx/Vivado/2018.2/tps/win64/jre/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 2 GB
+
+
+User name: 	hp
+User home directory: C:/Users/hp
+User working directory: C:/Users/hp/Documents/VIVADO/8_bit_booth_multiplier
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2018.2
+RDI_DATADIR: C:/Xilinx/Vivado/2018.2/data
+RDI_BINDIR: C:/Xilinx/Vivado/2018.2/bin
+
+Vivado preferences file location: C:/Users/hp/AppData/Roaming/Xilinx/Vivado/2018.2/vivado.xml
+Vivado preferences directory: C:/Users/hp/AppData/Roaming/Xilinx/Vivado/2018.2/
+Vivado layouts directory: C:/Users/hp/AppData/Roaming/Xilinx/Vivado/2018.2/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2018.2/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/hp/Documents/VIVADO/8_bit_booth_multiplier/vivado.log
+Vivado journal file location: 	C:/Users/hp/Documents/VIVADO/8_bit_booth_multiplier/vivado.jou
+Engine tmp dir: 	C:/Users/hp/Documents/VIVADO/8_bit_booth_multiplier/.Xil/Vivado-18720-DESKTOP-7BG0GG5
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Xilinx/Vivado/2018.2/ids_lite/ISE
+XILINX_DSP: C:/Xilinx/Vivado/2018.2/ids_lite/ISE
+XILINX_PLANAHEAD: C:/Xilinx/Vivado/2018.2
+XILINX_SDK: C:/Xilinx/SDK/2018.2
+XILINX_VIVADO: C:/Xilinx/Vivado/2018.2
+XILINX_VIVADO_HLS: C:/Xilinx/Vivado/2018.2
+
+
+GUI allocated memory:	214 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 484 MB
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// [GUI Memory]: 57 MB (+57609kb) [00:00:15]
+// [Engine Memory]: 470 MB (+340929kb) [00:00:15]
+// TclEventType: PROJECT_OPEN_DIALOG
+// bx (ck):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\hp\Documents\VIVADO\8_bit_booth_multiplier\8_bit_booth_multiplier.xpr. Version: Vivado v2018.2 
+// [GUI Memory]: 67 MB (+6872kb) [00:00:16]
+// Tcl Message: open_project C:/Users/hp/Documents/VIVADO/8_bit_booth_multiplier/8_bit_booth_multiplier.xpr 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// HMemoryUtils.trashcanNow. Engine heap size: 500 MB. GUI used memory: 36 MB. Current time: 7/29/23 9:36:59 PM IST
+// [Engine Memory]: 510 MB (+17321kb) [00:00:20]
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project C:/Users/hp/Documents/VIVADO/8_bit_booth_multiplier/8_bit_booth_multiplier.xpr 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'. 
+// [Engine Memory]: 550 MB (+15386kb) [00:00:25]
+// TclEventType: PROJECT_NEW
+// [Engine Memory]: 588 MB (+11060kb) [00:00:28]
+// Project name: 8_bit_booth_multiplier; location: C:/Users/hp/Documents/VIVADO/8_bit_booth_multiplier; part: xc7vx485tffg1157-1
+// [Engine Memory]: 624 MB (+6721kb) [00:00:33]
+// Tcl Message: open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:16 . Memory (MB): peak = 852.254 ; gain = 126.594 
+dismissDialog("Open Project"); // bx (ck)
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_GRAPH_GENERATED
